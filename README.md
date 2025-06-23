@@ -1,33 +1,15 @@
-# Landing Page Toko Online 🛒
+# Pertemuan Pertama – Template Vue + Vite
 
-Ini adalah proyek Landing Page sederhana untuk sebuah toko online, dibuat menggunakan HTML dan Tailwind CSS.
+Proyek ini dibuat sebagai bagian dari tugas **Pertemuan Pertama** dengan tujuan:
 
-## 🎯 Fitur
-- Navbar navigasi
-- Carousel gambar
-- Card produk
-- Footer
+- ✅ Membuat template Vue menggunakan Vite
+- ✅ Upload ke GitHub
+- ✅ Deploy ke Hosting (Vercel atau Cloudflare Pages)
 
-## 💻 Teknologi
-- HTML
-- Tailwind CSS (via CDN)
+## 🛠 Cara Menjalankan Project
 
-## 📦 Cara Menjalankan
-1. Clone repo ini:
-   ```
-   git clone https://github.com/username/nama-repo.git
-   ```
+1. Clone repo ini atau download ZIP
+2. Install dependency:
 
-2. Buka file `index.html` di browser
-
-## 🚀 Deploy
-Proyek ini dapat dengan mudah dideploy menggunakan layanan hosting statis seperti:
-- [Netlify](https://netlify.com)
-- [Vercel](https://vercel.com)
-
-## 📸 Preview
-![Preview](https://source.unsplash.com/featured/?store)
-
----
-
-© 2025 Syahrul Ramadhan – All rights reserved.
+```bash
+npm install
